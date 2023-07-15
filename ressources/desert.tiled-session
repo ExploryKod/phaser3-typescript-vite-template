@@ -1,0 +1,55 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map/map_sample.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6939,
+                "y": 269
+            }
+        },
+        "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map/map_tiles.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map/map_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "dungeon-01.tmx": {
+            "scale": 0.263625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 796.5860597439544,
+                "y": 796.5860597439545
+            }
+        },
+        "dungeon-01.tmx#dungeon": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map",
+    "map.height": 100,
+    "map.orientation": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+    ],
+    "project": "desert.tiled-project",
+    "recentFiles": [
+        "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map/map_tiles.tsj",
+        "dungeon-01.tmx",
+        "C:/Users/amaur/Desktop/myWeb/phaser_games/ressources_games/Map/map_sample.tmx"
+    ],
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "json"
+}
